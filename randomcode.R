@@ -8,4 +8,4 @@ library(stringr)
 
 # Read the Rmd file
 rmd <- readLines("randomcode.Rmd")
-  
+fdfdkj  
